@@ -3,6 +3,10 @@
     "name": "Purchase Approval",
     "version": "19.0.1.2.0",
     "summary": "Two-step approval for purchase orders",
+    "description": """
+Purchase orders above a set amount need a second approval
+before they can be confirmed.
+""",
     "category": "Test",
     "author": "OdooTec",
     "license": "Other proprietary",
